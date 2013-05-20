@@ -10,7 +10,7 @@ HackDay
 Hack Fest
 HackFest
 Code Fest
-CodeFelst
+CodeFest
 Coding Dojo
 CodingDojo
 Design Dojo
